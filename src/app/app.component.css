@@ -1,0 +1,25 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headdiv { 
+    background: rgb(176, 211, 228);
+    display: flex;
+    padding: 12px 24px;
+    border-radius: 18px;
+}
+
+img{
+    width: 10%;
+}
+
+header{
+    border-radius: 18px;
+    border-bottom: 1px solid grey;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+}
